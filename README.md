@@ -4,8 +4,6 @@ A stylish, mobile-friendly landing page and menu for a bakery cafe. Browse top p
 
 Built with **pure HTML, CSS and vanilla JavaScript** — no frameworks, no build step.
 
-🔗 **Live demo:** https://bordenice.github.io/Restraint-Menu/
-
 ---
 
 ## ✨ Features
@@ -38,25 +36,6 @@ Restraint-Menu/
 ├── Style.css      # styles
 ├── Scrypt.js      # category tabs / gallery logic
 └── images/        # product, gallery and footer images
-```
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/BordenIce/Restraint-Menu.git
-
-# Go to the project folder
-cd Restraint-Menu
-
-# Open Index.html in your browser
-```
-
-Or run a local server:
-
-```bash
-python -m http.server 8000
-# open http://localhost:8000
 ```
 
 ## 🌐 Deployment
